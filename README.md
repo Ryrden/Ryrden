@@ -1,16 +1,12 @@
-### Hi there 👋
+### Oi, me chamo Ryan!
+    
+    -Graduando em Sistemas de Informações
+    -Cursando Técnico em Desenvolvimento de sistemas
 
-<!--
-**Ryrden/Ryrden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  No momento estou me dedicando bastante em Web e nas horas vagas gosto de jogar alguns games casuais.
+<br>
+<div align="left">
+  <a href="https://github.com/Ryrden">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryrden&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryrden&layout=compact&langs_count=7&theme=dark"/>
+</div>
