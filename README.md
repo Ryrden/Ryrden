@@ -1,13 +1,9 @@
 <h2 align="left">Hi 👋! My name is Ryan and I'm a Software Developer</h2>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Ryrden" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -34,18 +30,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
-### Oi, me chamo Ryan!
-<div align="left">
-  <a href="https://github.com/Ryrden">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryrden&show_icons=true&theme=dark"/>
-</div>
-<br>
 <div>
     <img height="20em" id="viewer" src="https://komarev.com/ghpvc/?username=Ryrden&color=blue"/>
 </div>
