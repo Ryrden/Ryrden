@@ -33,6 +33,7 @@ I am an undergraduate Information Systems at ICMC/USP and I'm currently working 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  height="30" width="42" alt="c++ logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" width="42" alt="haskell logo"/>
 </p>
 
 ### ***Statistical Data***
