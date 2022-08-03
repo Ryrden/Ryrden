@@ -8,7 +8,7 @@
 
 ### ***About me***
 
-I am an undergraduate Information Systems at ICMC/USP and I'm currently working for a chatbot startup where i make bots using javascript and the blip plataform. I love to learn and build something new, productive and creative.
+I am an undergraduate Information Systems at ICMC/USP and I'm currently working for a startup where I work with Java, Spring Boot and a lot of other technologys. I love to learn and build something new, productive and creative.
 
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
