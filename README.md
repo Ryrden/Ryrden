@@ -12,9 +12,10 @@ I am an undergraduate Information Systems at ICMC/USP and I'm currently working 
 
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
-  * Java
-  * Web development
-  * Git to collaborate on open source projects
+  * Improving my current stack (Spring, React, Postgree and Git)
+  * Collaborating with Open-source
+  * Soft-skills like communication Techniques
+  * Algorithms to get better rankings in online contests like google kick-start
 * 😄 Pronouns: He/Him
 * 👯 We can connect on [Chess.com](https://www.chess.com/member/rektryan)♟ to play some games
 
