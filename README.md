@@ -14,10 +14,8 @@ I am an undergraduate Information Systems at ICMC/USP and I'm currently working 
 * 🌱 I’m currently learning ...
   * Improving my current stack (Spring, React, Postgree and Git)
   * Collaborating with Open-source
-  * Soft-skills like communication Techniques
   * Algorithms to get better rankings in online contests like google kick-start
 * 😄 Pronouns: He/Him
-* 👯 We can connect on [Chess.com](https://www.chess.com/member/rektryan)♟ to play some games
 
 ### ***Technologies that I know***
 
@@ -43,23 +41,7 @@ I am an undergraduate Information Systems at ICMC/USP and I'm currently working 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=python"/>
 </div>
 
-### ***Check out my GitHub repository:***
-
-<div>
-    <a href="https://github.com/Ryrden/YelpCamp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Ryrden&repo=YelpCamp" alt="GitHub Stats" width="350px"/>
-    </a>
-    <a href="https://github.com/Ryrden/tic-tac-toe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Ryrden&repo=tic-tac-toe" width="350px">
-    </a>
-    <a href="https://github.com/Ryrden/ICMC-SCC0503">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Ryrden&repo=ICMC-SCC0503" width="350px">
-    </a>
-    <a href="https://github.com/Ryrden/SSC-0960-Bowling-Score">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Ryrden&repo=SSC-0960-Bowling-Score" width="350px">
-    </a>
-</div>
-<br>
+![Snake animation](https://github.com/ryrden/ryrden/blob/output/github-contribution-grid-snake.svg)
 
 **Thanks for reading, and here's a joke for you**
 
