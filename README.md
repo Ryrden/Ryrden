@@ -8,11 +8,10 @@
 
 ### ***About me***
 
-I am an undergraduate Information Systems at ICMC/USP and I'm currently working for a startup where I work with Java, Spring Boot and a lot of other technologies. I love to learn and build something new, productive and creative.
+I am an undergraduate Information Systems at ICMC/USP. I love to learn and build something new, productive and creative.
 
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
-  * Improving my current stack (Spring, React, Postgree and Git)
   * Collaborating with Open-source
   * Algorithms to get better rankings in online contests like google kick-start
 * 😄 Pronouns: He/Him
