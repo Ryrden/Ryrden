@@ -13,7 +13,9 @@ I am an undergraduate Information Systems at ICMC/USP. I love to learn and build
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
   * Collaborating with Open-source
-  * Algorithms to get better rankings in online contests like google kick-start
+  * Machine Learning
+  * Advanced Git/Github
+  * Algorithms to get better rankings in online contests (leetcode, codeforces, etc)
 * 😄 Pronouns: He/Him
 
 ### ***Technologies that I know***
