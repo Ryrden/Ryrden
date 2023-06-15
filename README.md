@@ -13,9 +13,8 @@ I am an undergraduate Information Systems at ICMC/USP. I love to learn and build
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
   * Collaborating with Open-source
-  * Machine Learning
   * Advanced Git/Github
-  * Algorithms to get better rankings in online contests (leetcode, codeforces, etc)
+  * Algorithms
 * 😄 Pronouns: He/Him
 
 ### ***Technologies that I know***
@@ -37,7 +36,7 @@ I am an undergraduate Information Systems at ICMC/USP. I love to learn and build
 
 ### ***Statistical Data***
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Ryrden?theme=dark&show_rank=false" width="425px"/><br>
+<!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=dark&show_rank=false" width="425px"/><br> Leetcode Chart--> 
     <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Ryrden" alt="stats graph" width="425px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=python"/>
 </div>
