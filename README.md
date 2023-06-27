@@ -8,13 +8,14 @@
 
 ### ***About me***
 
-I am an undergraduate Information Systems at ICMC/USP. I love to learn and build something new, productive and creative.
+I am an undergraduate in Information Systems at ICMC/USP. I love to learn and build something new, productive and creative.
 
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
-  * Collaborating with Open-source
-  * Advanced Git/Github
+  * NixOS and Nix
+  * Software Engineering
   * Algorithms
+  * English (I'm not fluent yet)
 * 😄 Pronouns: He/Him
 
 ### ***Technologies that I know***
@@ -25,22 +26,27 @@ I am an undergraduate Information Systems at ICMC/USP. I love to learn and build
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="node js logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  height="30" width="42" alt="c++ logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" width="42" alt="haskell logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
 </p>
 
-### ***Statistical Data***
-<div align="center">
-<!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=dark&show_rank=false" width="425px"/><br> Leetcode Chart--> 
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Ryrden" alt="stats graph" width="425px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=python"/>
-</div>
+### ***PC Configuration***
 
+![Acer Laptop](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white) [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/) [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+
+![CPU](https://img.shields.io/badge/CPU-Ryzen%207%205700U-0078D6?style=for-the-badge) ![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Graphics-0078D6?style=for-the-badge) ![RAM](https://img.shields.io/badge/RAM-8GB-0078D6?style=for-the-badge) ![SSD](https://img.shields.io/badge/SSD-256GB-0078D6?style=for-the-badge)
+
+### ***Statistical Data***
+
+<div align="center" width="100%">
+<!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=dark&show_rank=false" width="425px"/><br> Leetcode Chart-->
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Ryrden" alt="stats graph" width="400vw"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=python,java,html,css" width="305vw"/>
+</div>
 ![Snake animation](https://github.com/ryrden/ryrden/blob/output/github-contribution-grid-snake.svg)
 
 **Thanks for reading, and here's a joke for you**
