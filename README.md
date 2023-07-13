@@ -29,7 +29,7 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="node js logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  height="30" width="42" alt="c++ logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="c++ logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
 </p>
@@ -38,7 +38,7 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 
 ![Acer Laptop](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white) [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/) [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
-![CPU](https://img.shields.io/badge/CPU-Ryzen%207%205700U-0078D6?style=for-the-badge) ![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Graphics-0078D6?style=for-the-badge) ![RAM](https://img.shields.io/badge/RAM-8GB-0078D6?style=for-the-badge) ![SSD](https://img.shields.io/badge/SSD-256GB-0078D6?style=for-the-badge)
+![CPU](https://img.shields.io/badge/CPU-Ryzen%207%205700U-0078D6?style=for-the-badge) ![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Graphics-0078D6?style=for-the-badge) ![RAM](https://img.shields.io/badge/RAM-8GB-0078D6?style=for-the-badge) ![SSD](https://img.shields.io/badge/SSD-1TB-0078D6?style=for-the-badge)
 
 ### ***Statistical Data***
 
