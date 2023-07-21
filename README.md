@@ -45,7 +45,7 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 <div align="center" width="100%">
 <!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=dark&show_rank=false" width="425px"/><br> Leetcode Chart-->
     <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Ryrden" alt="stats graph" width="400vw"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=python,java,html,css" width="305vw"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,python,java,html,css,assembly,ejs,TeX,Hack,powershell" width="305vw"/>
 </div>
 
 ![Snake animation](https://github.com/ryrden/ryrden/blob/output/github-contribution-grid-snake.svg)
