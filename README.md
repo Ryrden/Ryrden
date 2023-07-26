@@ -48,8 +48,6 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,python,java,html,css,assembly,ejs,TeX,Hack,powershell" width="305vw"/>
 </div>
 
-![Snake animation](https://github.com/ryrden/ryrden/blob/output/github-contribution-grid-snake.svg)
-
 **Thanks for reading, and here's a joke for you**
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
