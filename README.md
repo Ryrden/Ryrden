@@ -16,6 +16,7 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
   * Software Engineering
   * Algorithms
   * English (I'm not fluent yet)
+  * French (For funny, I'm using Duolingo btw)
 * 😄 Pronouns: He/Him
 
 ### ***Technologies that I know***
