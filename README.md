@@ -1,6 +1,7 @@
 ## Hi 👋! My name is Ryan and I'm a Software Developer
 
 ![Visitors](https://komarev.com/ghpvc/?username=Ryrden&color=blue)
+[![wakatime](https://wakatime.com/badge/user/ed84c523-3e63-43f7-b210-066a9dd37830.svg)](https://wakatime.com/@ed84c523-3e63-43f7-b210-066a9dd37830)
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/ryan25)
 [![GitHub followers](https://img.shields.io/github/followers/ryrden.svg?style=social&label=Follow)](https://github.com/ryrden?tab=followers)
 
