@@ -13,13 +13,11 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
-  * NixOS and Nix
-  * Software Engineering
+  * Scalable Backend
   * Algorithms
-  * English (I'm not fluent yet)
-  * French (For funny, I'm using Duolingo btw)
+  * System Design
+  * English (Almost fluent)
 * 😄 Pronouns: He/Him
-* 👯 We can connect on [Chess.com](https://www.chess.com/member/rektryan)♟ to play some games
 
 ### ***Technologies that I know and like to use***
 
