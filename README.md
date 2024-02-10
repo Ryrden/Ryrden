@@ -3,6 +3,8 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Ryrden&color=blue)
 [![wakatime](https://wakatime.com/badge/user/ed84c523-3e63-43f7-b210-066a9dd37830.svg)](https://wakatime.com/@ed84c523-3e63-43f7-b210-066a9dd37830)
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/ryan25)
+[![exercism](https://img.shields.io/badge/Exercism-logo?style=flat&logo=exercism&logoColor=white&color=%23009CAB)](https://exercism.org/profiles/Ryrden)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ryrden)
 [![GitHub followers](https://img.shields.io/github/followers/ryrden.svg?style=social&label=Follow)](https://github.com/ryrden?tab=followers)
 
 ###
@@ -33,7 +35,6 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"/>
 </p>
 
 ### ***PC Configuration***
