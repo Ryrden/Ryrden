@@ -7,8 +7,6 @@
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ryrden)
 [![GitHub followers](https://img.shields.io/github/followers/ryrden.svg?style=social&label=Follow)](https://github.com/ryrden?tab=followers)
 
-###
-
 ### ***About me***
 
 I am an undergraduate in Information Systems at ICMC/USP. I love to learn and build something new, productive and creative.
@@ -51,9 +49,11 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 ### ***Statistical Data***
 
 <div align="center" width="100%">
-<!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=dark&show_rank=false" width="425px"/><br> Leetcode Chart-->
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Ryrden" alt="stats graph" width="400vw"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,python,java,html,css,assembly,ejs,TeX,Hack,powershell" width="305vw"/>
+<!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=radical&show_rank=false" width="425px"/><br> Leetcode Chart-->
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=Ryrden" alt="stats graph" width="400vw"/>
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,html,css,assembly,ejs,TeX,Hack,powershell,c,vue" width="305vw"/>
+</div> -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryrden&theme=radical&exclude=SCSS,Haskell,Java,javaScript,PHP,html,PLpgSQL,Vue,Nix" width="305vw"/>
 </div>
 
 **Thanks for reading, and here's a joke for you**
