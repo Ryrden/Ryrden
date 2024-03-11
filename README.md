@@ -48,13 +48,26 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 
 ### ***Statistical Data***
 
-<div align="center" width="100%">
-<!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=radical&show_rank=false" width="425px"/><br> Leetcode Chart-->
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=Ryrden" alt="stats graph" width="400vw"/>
-<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,html,css,assembly,ejs,TeX,Hack,powershell,c,vue" width="305vw"/>
-</div> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryrden&theme=radical&exclude=SCSS,Haskell,Java,javaScript,PHP,html,PLpgSQL,Vue,Nix" width="305vw"/>
-</div>
+<table align="center">
+		<tr align="center">
+			<td>
+				<img src="https://spotify-github-profile.vercel.app/api/view?uid=ryanzinnn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
+						width="305vw" />
+    <!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=radical&show_rank=false" width="425px"/><br> Leetcode Chart-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>
+					<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=Ryrden"
+							alt="stats graph" width="400vw" />
+       <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,html,css,assembly,ejs,TeX,Hack,powershell,c,vue" width="305vw"/> -->
+					<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryrden&theme=radical&exclude=SCSS,Haskell,Java,javaScript,PHP,html,PLpgSQL,Vue,Nix"
+							width="305vw" />
+				</span>
+			</td>
+		</tr>
+</table>
 
 **Thanks for reading, and here's a joke for you**
 
