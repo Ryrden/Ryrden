@@ -48,13 +48,6 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 ### ***Statistical Data***
 
 <table align="center">
-		<tr align="center">
-			<td>
-				<img src="https://spotify-github-profile.vercel.app/api/view?uid=ryanzinnn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
-						width="305vw" />
-    <!--     <img src="https://leetcard.jacoblin.cool/Ryrden?theme=radical&show_rank=false" width="425px"/><br> Leetcode Chart-->
-			</td>
-		</tr>
 		<tr>
 			<td>
 				<span>
