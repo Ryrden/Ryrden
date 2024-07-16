@@ -16,9 +16,8 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
   * Backend Development
   * Artificial Intelligence
   * English (Almost fluent)
-* 😄 Pronouns: He/Him
 
-### ***Some technologies that I know***
+<!-- ### ***Some technologies that I know***
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"/>
@@ -42,7 +41,7 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 
 ![Acer Laptop](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white) [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
-![CPU](https://img.shields.io/badge/CPU-Ryzen%207%205700U-0078D6?style=for-the-badge) ![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Graphics-0078D6?style=for-the-badge) ![RAM](https://img.shields.io/badge/RAM-20GB-0078D6?style=for-the-badge) ![SSD](https://img.shields.io/badge/SSD-1TB-0078D6?style=for-the-badge)
+![CPU](https://img.shields.io/badge/CPU-Ryzen%207%205700U-0078D6?style=for-the-badge) ![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Graphics-0078D6?style=for-the-badge) ![RAM](https://img.shields.io/badge/RAM-20GB-0078D6?style=for-the-badge) ![SSD](https://img.shields.io/badge/SSD-1TB-0078D6?style=for-the-badge) -->
 
 ### ***Statistical Data***
 
