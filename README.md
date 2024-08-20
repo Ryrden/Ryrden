@@ -53,7 +53,6 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 							alt="stats graph" width="400vw" />
        <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryrden&theme=dark&locale=en&layout=compact&hide=javascript,php,html,css,assembly,ejs,TeX,Hack,powershell,c,vue" width="305vw"/> -->
 					<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryrden&theme=radical&exclude=SCSS,Haskell,Java,javaScript,PHP,html,PLpgSQL,Vue,Nix" width="305vw" />
-					<img src="https://github-readme-stats.vercel.app/api/wakatime?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&langs_count=5&username=Ryrden" width="400vw" />
 				</span>
 			</td>
 		</tr>
