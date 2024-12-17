@@ -12,10 +12,10 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
 
 * **I am interested in Software Engineering**
 * 🌱 I’m currently learning ...
-  * Algorithms
   * Backend Development
-  * Artificial Intelligence
+  * Software Architecture and Scalability
   * English (Almost fluent)
+  * Spanish (I think I like learn languages)
 
 <!-- ### ***Some technologies that I know***
 
