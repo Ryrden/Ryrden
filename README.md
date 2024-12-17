@@ -15,7 +15,7 @@ I am an undergraduate in Information Systems at ICMC/USP. I love to learn and bu
   * Backend Development
   * Software Architecture and Scalability
   * English (Almost fluent)
-  * Spanish (I think I like learn languages)
+  * Spanish (I think I like learning languages)
 
 <!-- ### ***Some technologies that I know***
 
