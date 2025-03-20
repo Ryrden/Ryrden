@@ -8,15 +8,14 @@
 
 ### ***About me***
 
-I am an undergraduate in Information Systems at ICMC/USP. I love to learn and build something new, productive and creative.
+I’m a passionate Software Engineer currently interning at Nubank while completing my final year in Information Systems at ICMC/USP. I’m driven by the desire to learn, create innovative solutions, and collaborate with others to tackle real-world challenges.
 
-* **I am interested in Software Engineering**
-* 🌱 I’m currently learning ...
-  * Backend Development
-  * Software Architecture and Scalability
-  * English (Almost fluent)
-  * Spanish (I think I like learning languages)
-
+**Key Interests**: Software Engineering, Software Architecture, Distributed Systems
+* 🌱 **Currently learning:**
+  * Backend Development (Architectures)
+  * System Design & Scalability
+  * Improving my English and Spanish skills
+   
 <!-- ### ***Some technologies that I know***
 
 <p>
